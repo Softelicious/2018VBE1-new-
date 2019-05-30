@@ -1,4 +1,4 @@
-//Kūrė Dominykas Rakūnas, nevokt :DD
+//Kūrė Dominykas Rakūnas
 #include <bits/stdc++.h>
 
 using namespace std;
